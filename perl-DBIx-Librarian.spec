@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	DBIx
-%define	pnam	Librarian
+%define		pdir	DBIx
+%define		pnam	Librarian
 Summary:	DBIx::Librarian - manage SQL in repository outside code
 Summary(pl):	DBIx::Librarian - zarz±dzanie SQL w repozytorium poza kodem
 Name:		perl-DBIx-Librarian
