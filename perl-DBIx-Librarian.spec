@@ -31,7 +31,7 @@ zachowanie nie jest gwarantowane.
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %install
