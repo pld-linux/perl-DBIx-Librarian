@@ -1,7 +1,7 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	DBIx
 %define	pnam	Librarian
-Summary:	DBIx::Librarian - Manage SQL in repository outside code
+Summary:	DBIx::Librarian - manage SQL in repository outside code
 Summary(pl):	DBIx::Librarian - zarz±dzanie SQL w repozytorium poza kodem
 Name:		perl-DBIx-Librarian
 Version:	0.4
