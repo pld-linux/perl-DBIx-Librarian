@@ -4,12 +4,12 @@
 Summary:	DBIx::Librarian - Manage SQL in repository outside code
 Summary(pl):	DBIx::Librarian - zarz±dzanie SQL w repozytorium poza kodem
 Name:		perl-DBIx-Librarian
-Version:	0.3
-Release:	3
+Version:	0.4
+Release:	1
 License:	GPL/Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	cc28416ccfb27b7d5f86567a92431c43
+# Source0-md5:	08b2d0e010853a54a595e32c46db70b2
 BuildRequires:	perl-devel >= 5.6
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
