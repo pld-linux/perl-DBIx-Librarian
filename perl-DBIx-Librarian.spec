@@ -6,7 +6,8 @@ Summary(pl):	DBIx::Librarian - zarz±dzanie SQL w repozytorium poza kodem
 Name:		perl-DBIx-Librarian
 Version:	0.4
 Release:	1
-License:	GPL/Artistic
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	08b2d0e010853a54a595e32c46db70b2
