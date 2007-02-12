@@ -6,7 +6,7 @@
 %define		pdir	DBIx
 %define		pnam	Librarian
 Summary:	DBIx::Librarian - manage SQL in repository outside code
-Summary(pl):	DBIx::Librarian - zarz±dzanie SQL w repozytorium poza kodem
+Summary(pl.UTF-8):   DBIx::Librarian - zarzƒÖdzanie SQL w repozytorium poza kodem
 Name:		perl-DBIx-Librarian
 Version:	0.6
 Release:	2
@@ -31,11 +31,11 @@ This is for data manipulation (SELECT, INSERT, UPDATE, DELETE), not
 for data definition (CREATE, DROP, ALTER). Some DDL statements may
 work inside this module, but correct behavior is not guaranteed.
 
-%description -l pl
-Ten modu≥ s≥uøy do operacji na danych (SELECT, INSERT, UPDATE,
+%description -l pl.UTF-8
+Ten modu≈Ç s≈Çu≈ºy do operacji na danych (SELECT, INSERT, UPDATE,
 DELETE), ale nie do definiowania danych (CREATE, DROP, ALTER).
-NiektÛre wyraøenia DDL mog± dzia≥aÊ wewn±trz tego modu≥u, ale
-prawid≥owe zachowanie nie jest gwarantowane.
+Niekt√≥re wyra≈ºenia DDL mogƒÖ dzia≈Çaƒá wewnƒÖtrz tego modu≈Çu, ale
+prawid≈Çowe zachowanie nie jest gwarantowane.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
