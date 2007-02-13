@@ -6,7 +6,7 @@
 %define		pdir	DBIx
 %define		pnam	Librarian
 Summary:	DBIx::Librarian - manage SQL in repository outside code
-Summary(pl.UTF-8):   DBIx::Librarian - zarządzanie SQL w repozytorium poza kodem
+Summary(pl.UTF-8):	DBIx::Librarian - zarządzanie SQL w repozytorium poza kodem
 Name:		perl-DBIx-Librarian
 Version:	0.6
 Release:	2
